@@ -1,0 +1,4 @@
+{
+  "extends": "./tsconfig.json",
+  "object-literal-sort-keys": false
+}
