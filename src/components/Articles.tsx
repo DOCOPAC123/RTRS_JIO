@@ -15,7 +15,7 @@ class Articles extends React.Component<IProps, IState> {
   constructor(props: IProps) {
     super(props);
     this.state = {
-      photoData: "",
+      photoData: "4677",
       temp: 0
     };
   }
