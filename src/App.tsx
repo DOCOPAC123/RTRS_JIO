@@ -1,7 +1,6 @@
 import * as React from "react";
 import { Route } from "react-router-dom";
 import { Switch } from "react-router-dom";
-import MainScreen from "./components/MainScreen";
 // tslint:disable-next-line:ordered-imports
 import Articles from "./components/Articles";
 import EnrollMe from "./components/EnrollMe";
